@@ -3,4 +3,4 @@
 
 -RNN have proven to be one of the most powerful models for processcing sequential data
 
--We are using LSTM cuz it can not only process single data points, but also entire sequences of data
+-We are using LSTM, it can not only process single data points, but also entire sequences of data
